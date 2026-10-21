@@ -107,11 +107,11 @@ def discover_autocomplete_dtcs():
 
 
 def generate_dtc_Guide(dtc_topic):
-    """Memanggil Gemini 2.5 Flash API untuk menghasilkan data diagnostik mekanik & suku cadang."""
+    """Memanggil Gemini 1.5 Flash API untuk menghasilkan data diagnostik mekanik & suku cadang."""
     if not GEMINI_API_KEY:
         raise ValueError("GEMINI_API_KEY belum diatur di GitHub Secrets!")
 
-    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+    endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_API_KEY}"
 
     prompt = f"""
 You are an ASE Master Certified Automotive Technician. Create a comprehensive 2026 diagnostic, repair cost, and replacement part guide for OBD-II Trouble Code: "{dtc_topic}".
