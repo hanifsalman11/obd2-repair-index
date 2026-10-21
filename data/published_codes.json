@@ -25,5 +25,32 @@
     "description": "Complete mechanic diagnostic guide for OBD-II code P0300 (Random or Multiple Cylinder Misfire Detected). Compare DIY vs shop repair costs and find exact replacement parts.",
     "severity": "High",
     "date": "2026-10-21"
+  },
+  {
+    "code": "P0455",
+    "slug": "p0455-evaporative-emission-system-leak-detected-gross-leak-fix-cost",
+    "official_definition": "Evaporative Emission System Leak Detected Gross Leak",
+    "title": "Code P0455: Evaporative Emission System Leak Detected Gross Leak — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0455 (Evaporative Emission System Leak Detected Gross Leak). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-21"
+  },
+  {
+    "code": "P0128",
+    "slug": "p0128-coolant-thermostat-below-thermostat-regulating-temperature-fix-cost",
+    "official_definition": "Coolant Thermostat Below Thermostat Regulating Temperature",
+    "title": "Code P0128: Coolant Thermostat Below Thermostat Regulating Temperature — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0128 (Coolant Thermostat Below Thermostat Regulating Temperature). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-21"
+  },
+  {
+    "code": "P0401",
+    "slug": "p0401-exhaust-gas-recirculation-flow-insufficient-detected-fix-cost",
+    "official_definition": "Exhaust Gas Recirculation Flow Insufficient Detected",
+    "title": "Code P0401: Exhaust Gas Recirculation Flow Insufficient Detected — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0401 (Exhaust Gas Recirculation Flow Insufficient Detected). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-21"
   }
 ]
