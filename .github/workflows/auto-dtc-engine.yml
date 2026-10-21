@@ -1,0 +1,54 @@
+name: Autonomous OBD2 Diagnostic & Auto-Parts Engine
+
+on:
+  schedule:
+    - cron: '15 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      custom_dtc:
+        description: 'Optional DTC Code (e.g. P0420 Catalyst Efficiency Below Threshold)'
+        required: false
+        default: ''
+  repository_dispatch:
+    types: [n8n_dtc_trigger]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate-dtc-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate OBD2 Guides & Ping Search Engines
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_BASE_URL: ${{ secrets.SITE_BASE_URL }}
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          PAGES_PER_RUN: '2'
+          CUSTOM_DTC: ${{ github.event.client_payload.dtc_topic || github.event.inputs.custom_dtc || '' }}
+        run: |
+          python engine/dtc_builder.py
+
+      - name: Commit & Deploy to GitHub Pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ data/published_codes.json
+          if git diff --staged --quiet; then
+            echo "No new DTC codes to commit."
+          else
+            git commit -m "chore(dtc): auto-publish new OBD2 diagnostic guides [skip ci]"
+            git push origin main
+          fi
