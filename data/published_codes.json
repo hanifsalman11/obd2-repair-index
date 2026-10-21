@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "code": "P0420",
+    "slug": "p0420-catalyst-system-efficiency-below-threshold-bank-1-fix-cost",
+    "official_definition": "Catalyst System Efficiency Below Threshold Bank 1",
+    "title": "Code P0420: Catalyst System Efficiency Below Threshold Bank 1 — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0420 (Catalyst System Efficiency Below Threshold Bank 1). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-21"
+  },
+  {
+    "code": "P0171",
+    "slug": "p0171-system-too-lean-bank-1-fix-cost",
+    "official_definition": "System Too Lean Bank 1",
+    "title": "Code P0171: System Too Lean Bank 1 — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0171 (System Too Lean Bank 1). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-21"
+  },
+  {
+    "code": "P0300",
+    "slug": "p0300-random-or-multiple-cylinder-misfire-detected-fix-cost",
+    "official_definition": "Random or Multiple Cylinder Misfire Detected",
+    "title": "Code P0300: Random or Multiple Cylinder Misfire Detected — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0300 (Random or Multiple Cylinder Misfire Detected). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "High",
+    "date": "2026-10-21"
+  }
+]
