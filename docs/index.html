@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OBD2RepairIndex — Check Engine Trouble Code Lookup & Replacement Part Finder (2026)</title>
+  <meta name="description" content="Instant OBD-II trouble code lookup. Calculate DIY vs mechanic repair costs, test sensors, and find exact replacement parts.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/obd2-repair-index/">
+  <link rel="alternate" type="application/rss+xml" title="OBD2RepairIndex RSS Feed" href="https://hanifsalman11.github.io/obd2-repair-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col">
+  <header class="border-b border-zinc-800 bg-zinc-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-amber-500 text-zinc-950 px-2 py-0.5 rounded font-black">OBD2</span>RepairIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Bluetooth%2BOBD2%2BScanner%2BCheck%2BEngine%2BCode%2BReader%2BBidirectional&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-amber-500 hover:bg-amber-400 text-zinc-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Check OBD2 Scanner Price on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">OBD-II Trouble Code & Auto-Part Database</h1>
+      <p class="text-zinc-400 mt-3 text-base sm:text-lg">Enter your 5-digit Check Engine Light code (e.g. P0420, P0171, P0300) to calculate repair costs and locate exact replacement sensors.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search by DTC Code or Symptom (e.g. P0420, Catalyst, Lean, Misfire...)" class="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-amber-500">
+      </div>
+    </div>
+
+    <div id="codeGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5"></div>
+  </main>
+
+  <footer class="border-t border-zinc-800 py-8 text-center text-xs text-zinc-500">
+    <p>© 2026 OBD2RepairIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('codeGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>

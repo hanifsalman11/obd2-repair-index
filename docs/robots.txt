@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hanifsalman11.github.io/obd2-repair-index/sitemap.xml
