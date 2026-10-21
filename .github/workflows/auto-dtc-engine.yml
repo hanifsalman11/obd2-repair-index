@@ -36,7 +36,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SITE_BASE_URL: ${{ secrets.SITE_BASE_URL }}
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
-          PAGES_PER_RUN: '2'
+          PAGES_PER_RUN: '3'
           CUSTOM_DTC: ${{ github.event.client_payload.dtc_topic || github.event.inputs.custom_dtc || '' }}
         run: |
           python engine/dtc_builder.py
@@ -49,6 +49,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new DTC codes to commit."
           else
-            git commit -m "chore(dtc): auto-publish new OBD2 diagnostic guides [skip ci]"
+            git commit -m "chore(dtc): auto-publish new OBD2 diagnostic guides"
             git push origin main
           fi
