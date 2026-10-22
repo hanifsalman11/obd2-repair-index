@@ -241,5 +241,32 @@
     "description": "Complete mechanic diagnostic guide for OBD-II code P0299 (Turbocharger Supercharger A Underboost Condition). Compare DIY vs shop repair costs and find exact replacement parts.",
     "severity": "Moderate",
     "date": "2026-10-22"
+  },
+  {
+    "code": "P2096",
+    "slug": "p2096-post-catalyst-fuel-trim-system-too-lean-bank-1-fix-cost",
+    "official_definition": "Post Catalyst Fuel Trim System Too Lean Bank 1",
+    "title": "Code P2096: Post Catalyst Fuel Trim System Too Lean Bank 1 — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P2096 (Post Catalyst Fuel Trim System Too Lean Bank 1). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
+  },
+  {
+    "code": "P2138",
+    "slug": "p2138-throttle-pedal-position-sensor-switch-d-e-voltage-correlation-fix-cost",
+    "official_definition": "Throttle Pedal Position Sensor Switch D E Voltage Correlation",
+    "title": "Code P2138: Throttle Pedal Position Sensor Switch D E Voltage Correlation — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P2138 (Throttle Pedal Position Sensor Switch D E Voltage Correlation). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
+  },
+  {
+    "code": "U0100",
+    "slug": "u0100-lost-communication-with-ecm-pcm-a-fix-cost",
+    "official_definition": "Lost Communication With ECM PCM A",
+    "title": "Code U0100: Lost Communication With ECM PCM A — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code U0100 (Lost Communication With ECM PCM A). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
   }
 ]
