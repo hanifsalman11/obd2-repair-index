@@ -187,5 +187,32 @@
     "description": "Complete mechanic diagnostic guide for OBD-II code P0141 (O2 Sensor Heater Circuit Bank 1 Sensor 2). Compare DIY vs shop repair costs and find exact replacement parts.",
     "severity": "Moderate",
     "date": "2026-10-22"
+  },
+  {
+    "code": "P0325",
+    "slug": "p0325-knock-sensor-1-circuit-bank-1-fix-cost",
+    "official_definition": "Knock Sensor 1 Circuit Bank 1",
+    "title": "Code P0325: Knock Sensor 1 Circuit Bank 1 — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0325 (Knock Sensor 1 Circuit Bank 1). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
+  },
+  {
+    "code": "P0335",
+    "slug": "p0335-crankshaft-position-sensor-a-circuit-fix-cost",
+    "official_definition": "Crankshaft Position Sensor A Circuit",
+    "title": "Code P0335: Crankshaft Position Sensor A Circuit — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0335 (Crankshaft Position Sensor A Circuit). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
+  },
+  {
+    "code": "P0011",
+    "slug": "p0011-a-camshaft-position-timing-over-advanced-bank-1-fix-cost",
+    "official_definition": "A Camshaft Position Timing Over-Advanced Bank 1",
+    "title": "Code P0011: A Camshaft Position Timing Over-Advanced Bank 1 — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0011 (A Camshaft Position Timing Over-Advanced Bank 1). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
   }
 ]
