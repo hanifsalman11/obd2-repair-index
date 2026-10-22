@@ -214,5 +214,32 @@
     "description": "Complete mechanic diagnostic guide for OBD-II code P0011 (A Camshaft Position Timing Over-Advanced Bank 1). Compare DIY vs shop repair costs and find exact replacement parts.",
     "severity": "Moderate",
     "date": "2026-10-22"
+  },
+  {
+    "code": "P0016",
+    "slug": "p0016-crankshaft-position-camshaft-position-correlation-bank-1-sensor-a-fix-cost",
+    "official_definition": "Crankshaft Position Camshaft Position Correlation Bank 1 Sensor A",
+    "title": "Code P0016: Crankshaft Position Camshaft Position Correlation Bank 1 Sensor A — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0016 (Crankshaft Position Camshaft Position Correlation Bank 1 Sensor A). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
+  },
+  {
+    "code": "P0191",
+    "slug": "p0191-fuel-rail-pressure-sensor-a-circuit-range-performance-fix-cost",
+    "official_definition": "Fuel Rail Pressure Sensor A Circuit Range Performance",
+    "title": "Code P0191: Fuel Rail Pressure Sensor A Circuit Range Performance — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0191 (Fuel Rail Pressure Sensor A Circuit Range Performance). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
+  },
+  {
+    "code": "P0299",
+    "slug": "p0299-turbocharger-supercharger-a-underboost-condition-fix-cost",
+    "official_definition": "Turbocharger Supercharger A Underboost Condition",
+    "title": "Code P0299: Turbocharger Supercharger A Underboost Condition — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0299 (Turbocharger Supercharger A Underboost Condition). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
   }
 ]

@@ -150,4 +150,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/obd2-repair-index/p0016-crankshaft-position-camshaft-position-correlation-bank-1-sensor-a-fix-cost.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/obd2-repair-index/p0191-fuel-rail-pressure-sensor-a-circuit-range-performance-fix-cost.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/obd2-repair-index/p0299-turbocharger-supercharger-a-underboost-condition-fix-cost.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
