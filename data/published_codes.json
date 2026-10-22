@@ -79,5 +79,32 @@
     "description": "Complete mechanic diagnostic guide for OBD-II code P0135 (O2 Sensor Heater Circuit Bank 1 Sensor 1). Compare DIY vs shop repair costs and find exact replacement parts.",
     "severity": "Moderate",
     "date": "2026-10-21"
+  },
+  {
+    "code": "P0340",
+    "slug": "p0340-camshaft-position-sensor-a-circuit-bank-1-fix-cost",
+    "official_definition": "Camshaft Position Sensor A Circuit Bank 1",
+    "title": "Code P0340: Camshaft Position Sensor A Circuit Bank 1 — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0340 (Camshaft Position Sensor A Circuit Bank 1). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
+  },
+  {
+    "code": "P0442",
+    "slug": "p0442-evaporative-emission-system-leak-detected-small-leak-fix-cost",
+    "official_definition": "Evaporative Emission System Leak Detected Small Leak",
+    "title": "Code P0442: Evaporative Emission System Leak Detected Small Leak — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0442 (Evaporative Emission System Leak Detected Small Leak). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
+  },
+  {
+    "code": "P0507",
+    "slug": "p0507-idle-air-control-system-rpm-higher-than-expected-fix-cost",
+    "official_definition": "Idle Air Control System RPM Higher Than Expected",
+    "title": "Code P0507: Idle Air Control System RPM Higher Than Expected — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0507 (Idle Air Control System RPM Higher Than Expected). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-22"
   }
 ]
