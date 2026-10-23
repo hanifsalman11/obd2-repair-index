@@ -349,5 +349,32 @@
     "description": "Complete mechanic diagnostic guide for OBD-II code P0456 (Evaporative Emission System Leak Detected Very Small Leak). Compare DIY vs shop repair costs and find exact replacement parts.",
     "severity": "Moderate",
     "date": "2026-10-23"
+  },
+  {
+    "code": "P0500",
+    "slug": "p0500-vehicle-speed-sensor-a-fix-cost",
+    "official_definition": "Vehicle Speed Sensor A",
+    "title": "Code P0500: Vehicle Speed Sensor A — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0500 (Vehicle Speed Sensor A). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-23"
+  },
+  {
+    "code": "P0505",
+    "slug": "p0505-idle-control-system-fix-cost",
+    "official_definition": "Idle Control System",
+    "title": "Code P0505: Idle Control System — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0505 (Idle Control System). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-23"
+  },
+  {
+    "code": "P0606",
+    "slug": "p0606-ecm-pcm-processor-fix-cost",
+    "official_definition": "ECM PCM Processor",
+    "title": "Code P0606: ECM PCM Processor — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0606 (ECM PCM Processor). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-23"
   }
 ]
