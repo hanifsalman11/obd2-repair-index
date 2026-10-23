@@ -295,5 +295,32 @@
     "description": "Complete mechanic diagnostic guide for OBD-II code P0122 (Throttle Pedal Position Sensor Switch A Circuit Low). Compare DIY vs shop repair costs and find exact replacement parts.",
     "severity": "Moderate",
     "date": "2026-10-22"
+  },
+  {
+    "code": "P0138",
+    "slug": "p0138-o2-sensor-circuit-high-voltage-bank-1-sensor-2-fix-cost",
+    "official_definition": "O2 Sensor Circuit High Voltage Bank 1 Sensor 2",
+    "title": "Code P0138: O2 Sensor Circuit High Voltage Bank 1 Sensor 2 — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0138 (O2 Sensor Circuit High Voltage Bank 1 Sensor 2). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-23"
+  },
+  {
+    "code": "P0172",
+    "slug": "p0172-system-too-rich-bank-1-fix-cost",
+    "official_definition": "System Too Rich Bank 1",
+    "title": "Code P0172: System Too Rich Bank 1 — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0172 (System Too Rich Bank 1). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-23"
+  },
+  {
+    "code": "P0305",
+    "slug": "p0305-cylinder-5-misfire-detected-fix-cost",
+    "official_definition": "Cylinder 5 Misfire Detected",
+    "title": "Code P0305: Cylinder 5 Misfire Detected — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0305 (Cylinder 5 Misfire Detected). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "High",
+    "date": "2026-10-23"
   }
 ]
