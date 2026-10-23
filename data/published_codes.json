@@ -430,5 +430,23 @@
     "description": "Complete mechanic diagnostic guide for OBD-II code C0035 (Left Front Wheel Speed Sensor Supply). Compare DIY vs shop repair costs and find exact replacement parts.",
     "severity": "Moderate",
     "date": "2026-10-23"
+  },
+  {
+    "code": "B1000",
+    "slug": "b1000-electronic-control-unit-malfunction-fix-cost",
+    "official_definition": "Electronic Control Unit Malfunction",
+    "title": "Code B1000: Electronic Control Unit Malfunction — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code B1000 (Electronic Control Unit Malfunction). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-23"
+  },
+  {
+    "code": "U0121",
+    "slug": "u0121-lost-communication-with-anti-lock-brake-system-control-module-fix-cost",
+    "official_definition": "Lost Communication With Anti-Lock Brake System Control Module",
+    "title": "Code U0121: Lost Communication With Anti-Lock Brake System Control Module — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code U0121 (Lost Communication With Anti-Lock Brake System Control Module). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-23"
   }
 ]
