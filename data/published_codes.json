@@ -376,5 +376,32 @@
     "description": "Complete mechanic diagnostic guide for OBD-II code P0606 (ECM PCM Processor). Compare DIY vs shop repair costs and find exact replacement parts.",
     "severity": "Moderate",
     "date": "2026-10-23"
+  },
+  {
+    "code": "P0741",
+    "slug": "p0741-torque-converter-clutch-circuit-performance-or-stuck-off-fix-cost",
+    "official_definition": "Torque Converter Clutch Circuit Performance or Stuck Off",
+    "title": "Code P0741: Torque Converter Clutch Circuit Performance or Stuck Off — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P0741 (Torque Converter Clutch Circuit Performance or Stuck Off). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-23"
+  },
+  {
+    "code": "P1135",
+    "slug": "p1135-air-fuel-ratio-sensor-heater-circuit-response-fix-cost",
+    "official_definition": "Air Fuel Ratio Sensor Heater Circuit Response",
+    "title": "Code P1135: Air Fuel Ratio Sensor Heater Circuit Response — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P1135 (Air Fuel Ratio Sensor Heater Circuit Response). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-23"
+  },
+  {
+    "code": "P2101",
+    "slug": "p2101-throttle-actuator-control-motor-circuit-range-performance-fix-cost",
+    "official_definition": "Throttle Actuator Control Motor Circuit Range Performance",
+    "title": "Code P2101: Throttle Actuator Control Motor Circuit Range Performance — Symptoms, Causes & Repair Cost (2026)",
+    "description": "Complete mechanic diagnostic guide for OBD-II code P2101 (Throttle Actuator Control Motor Circuit Range Performance). Compare DIY vs shop repair costs and find exact replacement parts.",
+    "severity": "Moderate",
+    "date": "2026-10-23"
   }
 ]
